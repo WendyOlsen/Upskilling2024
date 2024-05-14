@@ -4,7 +4,7 @@ We prepared powerpoint slides and code chunks for the Social Statistics Departme
 May 2024
 
 INSTRUCTIONS
-Use the Green Icon.
+Use the Green Icon "CODE" and then Download Zip. 
 Take a copy of the whole repository all at once.
 It will be a zip file.
 Unzip it on your own computer.
