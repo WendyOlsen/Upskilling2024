@@ -13,6 +13,9 @@ H A V E   F U N
 
 Contents
 1 Wendy Olsen pay gap upskilling - one powerpoint, and the PDF of the same powerpoint.
+2 Natalie Shlomo on what is representativeness?
+3 Diego Perez Ruiz on entropy and the mean-squared error
 
+Also note, 4 Philip Leifeld made his own repository at:   https://github.com/leifeld/awayday on maximum likelihood estimation
 
 Wendy Olsen
