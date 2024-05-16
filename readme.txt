@@ -17,5 +17,7 @@ Contents
 3 Diego Perez Ruiz on entropy and the mean-squared error
 
 Also note, 4 Philip Leifeld made his own repository at:   https://github.com/leifeld/awayday on maximum likelihood estimation
+And note, 5 Arek Wisniowski has made his own repository at:  ​https://github.com/a-wis/SOST-away-day
+
 
 Wendy Olsen
