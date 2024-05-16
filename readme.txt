@@ -18,6 +18,8 @@ Contents
 
 Also note, 4 Philip Leifeld made his own repository at:   https://github.com/leifeld/awayday on maximum likelihood estimation
 And note, 5 Arek Wisniowski has made his own repository at:  ​https://github.com/a-wis/SOST-away-day
+And note, 6 Todd Hartmann has made his own repository on Mixed Graphical Models (MGMs) at:  
 
+https://github.com/tkhartman/may-away-day-24/upload/master
 
 Wendy Olsen
